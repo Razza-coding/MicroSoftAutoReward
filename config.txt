@@ -1,0 +1,2 @@
+searchCount=5
+inputFile="keyword.txt"
