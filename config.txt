@@ -1,2 +1,2 @@
-searchCount=5
+searchCount=3
 inputFile="keyword.txt"
